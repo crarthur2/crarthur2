@@ -27,7 +27,7 @@ Estudante de **Engenharia da Computação** na Universidade Federal do Espírito
 ---
 
 ### 📈 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=crarthur2&show_icons=true&theme=dracula)
+![Status de Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=SEU-LOGIN-AQUI&theme=dracula)
 
 ---
 
