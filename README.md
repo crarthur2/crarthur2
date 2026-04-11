@@ -1,6 +1,6 @@
 # Arthur Prado
 
-Estudante de **Engenharia da Computação** na Universidade Federal do Espírito Santo (UFES). Sou apaixonado pela área de tecnologia e atualmente foco meus estudos na **Área de Dados**, buscando transformar informação em insights e soluções inteligentes.
+Estudante de **Engenharia da Computação** na Universidade Federal do Espírito Santo (UFES). Sou apaixonado pela área de tecnologia e atualmente foco meus estudos na **Área de Dados**.
 
 ---
 
